@@ -94,6 +94,12 @@ Framstille den offisielle kommuneinndelingen.
 
 ### Datamodell
 
+== testtest
+
+* 1
+* 2
+* 3
+
 ```plantuml
 @startuml
 title Administrative enheter kommuner - Objekttyper
